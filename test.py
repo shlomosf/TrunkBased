@@ -1,4 +1,8 @@
-# To do: Add branch b1 and complete function add_nums(a,b)
+# Branch b1
+
+def add_nums(a,b):
+    return a + b
+
 
 # Main branch
 
