@@ -9,6 +9,8 @@ def mult(a,b):
     return a*b
 
 def div(a,b):
+    if b == 0: 
+        new KeyError()
     return a/b
 
 # Main branch
